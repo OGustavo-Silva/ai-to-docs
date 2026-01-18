@@ -1,3 +1,6 @@
 node_modules/
 package-lock.json
 prompts.json
+dist/
+.env
+credentials.json
