@@ -1,6 +1,7 @@
 import express from 'express';
 import router from './routes.ts';
 
+
 const app = express();
 const PORT = process.env.AI_TO_DOCS_SERVER_PORT || 3000;
 

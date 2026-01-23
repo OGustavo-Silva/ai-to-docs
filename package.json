@@ -20,6 +20,7 @@
   "dependencies": {
     "@google-cloud/local-auth": "^2.1.0",
     "@google/genai": "^1.37.0",
+    "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "googleapis": "^105.0.0",
     "ts-node": "^10.9.2"
